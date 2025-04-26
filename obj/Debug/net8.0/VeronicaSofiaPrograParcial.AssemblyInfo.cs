@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeronicaSofiaPrograParcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+279bd4963092a46fbe6c018feb0904446546c2dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeronicaSofiaPrograParcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeronicaSofiaPrograParcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
