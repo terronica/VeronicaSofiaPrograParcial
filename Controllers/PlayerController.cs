@@ -22,7 +22,7 @@ namespace VeronicaSofiaPrograParcial.Controllers
             _context = context;
         }
 
-         public IActionResult Index()
+        public IActionResult Index()
         {
             var players = _context.Players
                 .Include(p => p.PlayerTeams)

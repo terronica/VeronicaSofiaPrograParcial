@@ -252,3 +252,4 @@ C:\Users\USUARIO\Downloads\Vero\VeronicaSofiaPrograParcial\obj\Debug\net8.0\refi
 C:\Users\USUARIO\Downloads\Vero\VeronicaSofiaPrograParcial\obj\Debug\net8.0\VeronicaSofiaPrograParcial.pdb
 C:\Users\USUARIO\Downloads\Vero\VeronicaSofiaPrograParcial\obj\Debug\net8.0\VeronicaSofiaPrograParcial.genruntimeconfig.cache
 C:\Users\USUARIO\Downloads\Vero\VeronicaSofiaPrograParcial\obj\Debug\net8.0\ref\VeronicaSofiaPrograParcial.dll
+C:\Users\USUARIO\Downloads\Vero\VeronicaSofiaPrograParcial\obj\Debug\net8.0\VeronicaSofiaPrograParcial.sourcelink.json
